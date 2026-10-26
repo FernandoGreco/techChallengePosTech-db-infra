@@ -1,4 +1,4 @@
-# Tech Challenge - DB Infra
+# Tech Challenge - DB Infra - 
 
 erDiagram
     Cliente {
